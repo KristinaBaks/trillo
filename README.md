@@ -2,5 +2,5 @@
 
 
 Editor: VisualStudioCode.
-Technologies: HTML5, CSS3 (SCSS, (CSS Grid)).
+Technologies: HTML5, CSS3 (SCSS, (Flexbox)).
 Build Tools: NPM.
